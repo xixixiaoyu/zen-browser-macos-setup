@@ -1,0 +1,4 @@
+interface:
+  display_name: "Zen Browser macOS Setup"
+  short_description: "Set up and audit a focused Arc-style Zen Browser on macOS"
+  default_prompt: "Use $zen-browser-macos-setup to configure or audit Zen Browser on macOS."
